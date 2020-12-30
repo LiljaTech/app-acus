@@ -1,7 +1,15 @@
 {
   "appclips": {
     "apps": [
-      "HMP4RRN555.tech.lilja.BlixtvaktUI"
+      "HMP4RRN555.tech.lilja.Appacus-app"
+    ],
+    "details": [
+      {
+        "appID": "HMP4RRN555.tech.lilja.Appacus-app",
+        "paths": [
+          "/*"
+        ]
+      }
     ]
   }
 }
